@@ -1,0 +1,12 @@
+Problem statements:-
+
+1 ---- what is total amount each customer spent on zomato ?
+2 ---- How many days has each customer visited zomato?
+3 --- what was the first product purchased by each customer?
+4 -- what is most purchased item on menu & how many times was it purchased by all customers ?
+5 ---- which item was most popular for each customer?
+6 --- which item was purchased first by customer after they become a member ?
+7 --- which item was purchased just before customer became a member?
+8 ---- what is total orders and amount spent for each member before they become a member ?
+9 --- rank all transaction of the customers
+10 --- rank all transaction for each member whenever they are zomato gold member for every non gold member transaction mark as na
